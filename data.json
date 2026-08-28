@@ -97,7 +97,18 @@
       "destaque": false,
       "imagem": "images/5c93cd8c-41fd-4d02-894d-f4e11519851b.jpg",
       "criadoEm": "2026-08-28T23:32:27.411Z"
+    },
+    {
+      "id": "97ab9811-67f8-4c58-a26f-3b75d89b794a",
+      "nome": "Porta Maternidade",
+      "descricao": "",
+      "categoria": "Crochê",
+      "preco": 0,
+      "precoCombinar": true,
+      "destaque": false,
+      "imagem": "images/3514adae-edd6-4ad7-8fd8-331ab3dfff8c.jpg",
+      "criadoEm": "2026-08-28T23:33:06.810Z"
     }
   ],
-  "updatedAt": "2026-08-28T23:32:30.101Z"
+  "updatedAt": "2026-08-28T23:33:12.184Z"
 }
