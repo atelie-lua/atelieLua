@@ -88,17 +88,6 @@
       "precoCombinar": true
     },
     {
-      "id": "4edf81c9-bdb4-40e3-9e2b-5e319c5d97e9",
-      "nome": "Porta Maternidade",
-      "descricao": "",
-      "categoria": "Crochê",
-      "preco": 0,
-      "precoCombinar": true,
-      "destaque": false,
-      "imagem": "images/5c93cd8c-41fd-4d02-894d-f4e11519851b.jpg",
-      "criadoEm": "2026-08-28T23:32:27.411Z"
-    },
-    {
       "id": "97ab9811-67f8-4c58-a26f-3b75d89b794a",
       "nome": "Porta Maternidade",
       "descricao": "",
@@ -108,7 +97,18 @@
       "destaque": false,
       "imagem": "images/3514adae-edd6-4ad7-8fd8-331ab3dfff8c.jpg",
       "criadoEm": "2026-08-28T23:33:06.810Z"
+    },
+    {
+      "id": "c53e94e5-b99e-4055-b00d-9c8efa2b557c",
+      "nome": "Porta Maternidade",
+      "descricao": "",
+      "categoria": "Crochê",
+      "preco": 0,
+      "precoCombinar": true,
+      "destaque": false,
+      "imagem": "images/d043a530-ed6c-4e1d-94a4-40c7591ef455.jpg",
+      "criadoEm": "2026-08-28T23:36:11.700Z"
     }
   ],
-  "updatedAt": "2026-08-28T23:33:12.184Z"
+  "updatedAt": "2026-08-28T23:36:14.615Z"
 }
