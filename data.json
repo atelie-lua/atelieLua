@@ -108,7 +108,18 @@
       "destaque": false,
       "imagem": "images/d043a530-ed6c-4e1d-94a4-40c7591ef455.jpg",
       "criadoEm": "2026-08-28T23:36:11.700Z"
+    },
+    {
+      "id": "34949328-2a54-403a-9699-dc60045d125a",
+      "nome": "Caneta Personalizada",
+      "descricao": "",
+      "categoria": "Crochê",
+      "preco": 8,
+      "precoCombinar": false,
+      "destaque": false,
+      "imagem": "images/a5ffca79-26a2-43c8-b35e-1eba94317c26.jpg",
+      "criadoEm": "2026-09-04T18:56:18.329Z"
     }
   ],
-  "updatedAt": "2026-08-28T23:36:14.615Z"
+  "updatedAt": "2026-09-04T18:56:20.579Z"
 }
