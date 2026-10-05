@@ -163,7 +163,18 @@
       "destaque": false,
       "imagem": "images/3101181b-71b6-4871-b54d-e60ffbc38c29.jpg",
       "criadoEm": "2026-10-05T20:56:05.584Z"
+    },
+    {
+      "id": "7365ccb3-605d-4a45-9d16-f52d964d08e1",
+      "nome": "Toalha de rosto Decorado",
+      "descricao": "",
+      "categoria": "Crochê",
+      "preco": 20,
+      "precoCombinar": false,
+      "destaque": false,
+      "imagem": "images/ce45b337-58b0-4cf1-9570-d82fe80dedd1.jpg",
+      "criadoEm": "2026-10-05T20:56:35.192Z"
     }
   ],
-  "updatedAt": "2026-10-05T20:56:07.278Z"
+  "updatedAt": "2026-10-05T20:56:45.666Z"
 }
