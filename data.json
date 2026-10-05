@@ -130,7 +130,18 @@
       "destaque": false,
       "imagem": "images/a0b37de4-ca2f-417d-afa4-fa5f67680ca4.jpg",
       "criadoEm": "2026-09-04T18:56:55.951Z"
+    },
+    {
+      "id": "d5927f8e-f693-40c7-b5bf-2839c67549d0",
+      "nome": "Kit de Caneta e Marcador de Páginas tricotin",
+      "descricao": "",
+      "categoria": "Crochê",
+      "preco": 8,
+      "precoCombinar": false,
+      "destaque": false,
+      "imagem": "images/2373925e-d134-4a4a-855f-f6ebb42a44d7.jpg",
+      "criadoEm": "2026-10-05T20:52:20.098Z"
     }
   ],
-  "updatedAt": "2026-09-04T18:57:37.403Z"
+  "updatedAt": "2026-10-05T20:52:21.463Z"
 }
