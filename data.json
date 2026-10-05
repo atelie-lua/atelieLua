@@ -141,7 +141,18 @@
       "destaque": false,
       "imagem": "images/2373925e-d134-4a4a-855f-f6ebb42a44d7.jpg",
       "criadoEm": "2026-10-05T20:52:20.098Z"
+    },
+    {
+      "id": "672ca20c-3b6d-49ad-82ab-72e2dfabe04b",
+      "nome": "kit Caneta e Marcador de página em tricotin Masculino",
+      "descricao": "",
+      "categoria": "Crochê",
+      "preco": 8,
+      "precoCombinar": false,
+      "destaque": false,
+      "imagem": "images/35aff2fc-4f5e-4565-a96a-1d12e1d5c3ea.jpg",
+      "criadoEm": "2026-10-05T20:53:04.949Z"
     }
   ],
-  "updatedAt": "2026-10-05T20:52:21.463Z"
+  "updatedAt": "2026-10-05T20:53:06.340Z"
 }
